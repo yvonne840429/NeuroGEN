@@ -1,5 +1,4 @@
-# NeuroGEN
-Trends in survival following dementia diagnosis
+# NeuroGEN Trends in survival following dementia diagnosis
 
 Understanding the survival of people living with dementia across time and healthcare systems can help policymakers assess the real-world impact of dementia on health and social care systems. The NeuroGEN group conducted a multinational study examining trends in relative mortality risk following a dementia diagnosis using data from eight databases. A common analytical protocol was developed by the lead authors, then reviewed and iteratively refined by the broader research team. Collaborators and data custodians from each participating country executed the standardized SAS code locally, ensuring that individual-level data remained within each jurisdiction. This repository contains the original study protocol and SAS code shared with all collaborators.
 
